@@ -1,0 +1,28 @@
+name: xyz_
+favicon: null
+layout_spectrum: 0.5615119978319854
+typography_spectrum: 0.17124181287363172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5058613324072212
+  lightness: 0.6916456751059741
+  saturation: 0.3205919044557959
+  rhythmicContrast: 0.3767488489393145
+purpose: []
